@@ -1,0 +1,51 @@
+{
+  "kaidah_bentuk_soal": {
+    "pilihan_ganda": {
+      "deskripsi": "Peserta didik memilih satu jawaban benar dari beberapa pilihan jawaban.",
+      "aturan_opsi": [
+        {"kelas": "1 s.d 3", "jumlah_pilihan": 3, "label_opsi": ["A", "B", "C"]},
+        {"kelas": "4 s.d 9", "jumlah_pilihan": 4, "label_opsi": ["A", "B", "C", "D"]},
+        {"kelas": "10 s.d 12", "jumlah_pilihan": 5, "label_opsi": ["A", "B", "C", "D", "E"]}
+      ],
+      "kaidah_penulisan": [
+        "Kunci jawaban hanya ada satu.",
+        "Pilihan jawaban harus homogen dan logis.",
+        "Informasi yang ditulis tidak boleh menggunakan kalimat 'semua jawaban di atas salah/benar'."
+      ]
+    },
+    "pilihan_ganda_kompleks_multi_answer": {
+      "deskripsi": "Peserta didik memilih lebih dari satu jawaban benar pada kotak/kolom yang disediakan.",
+      "aturan_jumlah_pernyataan": [
+        {"kelas": "1 s.d 6", "jumlah_pernyataan": 3},
+        {"kelas": "7 s.d 10", "jumlah_pernyataan": 4},
+        {"kelas": "11 s.d 12", "jumlah_pernyataan": 5}
+      ]
+    },
+    "pilihan_ganda_kompleks_kategori": {
+      "deskripsi": "Peserta didik merespons pernyataan dengan memilih kategori (contoh: Benar/Salah, Ya/Tidak, Setuju/Tidak Setuju).",
+      "aturan_jumlah_pernyataan": [
+        {"kelas": "1 s.d 4", "jumlah_pernyataan": 2},
+        {"kelas": "5 s.d 10", "jumlah_pernyataan": 3},
+        {"kelas": "11 s.d 12", "jumlah_pernyataan": 4}
+      ]
+    },
+    "menjodohkan": {
+      "deskripsi": "Mencocokkan premis (lajur kiri) dengan respon (lajur kanan).",
+      "aturan_wajib": "Jumlah respon (jawaban di kanan) HARUS LEBIH BANYAK dari jumlah premis (pernyataan di kiri).",
+      "aturan_jumlah_premis": [
+        {"kelas": "1 s.d 6", "jumlah_premis": 3},
+        {"kelas": "7 s.d 10", "jumlah_premis": 4},
+        {"kelas": "11 s.d 12", "jumlah_premis": 5}
+      ]
+    },
+    "isian_dan_jawaban_singkat": {
+      "deskripsi": "Memberikan jawaban berupa frasa, kata, angka, atau simbol.",
+      "kaidah_isian": "Pokok soal disusun dalam bentuk kalimat berita (tidak lengkap).",
+      "kaidah_jawaban_singkat": "Pokok soal disusun dalam bentuk kalimat tanya."
+    },
+    "uraian": {
+      "deskripsi": "Menuntut peserta didik mengekspresikan gagasan dalam bentuk uraian tertulis.",
+      "kaidah_penilaian": "Jawaban peserta didik diskor sesuai dengan tingkat kompleksitas jawabannya."
+    }
+  }
+}
