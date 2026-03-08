@@ -1,0 +1,49 @@
+{
+  "skema_bank_soal": {
+    "id_soal": "AKM-NUM-L4-001",
+    "metadata": {
+      "kategori": "Numerasi",
+      "level_kelas": "Level 4 (Kelas 7 dan 8)",
+      "konteks": "Saintifik",
+      "domain_konten": "Aljabar",
+      "sub_domain": "Persamaan dan Pertidaksamaan",
+      "level_kognitif": "Applying (L2)",
+      "bentuk_soal": "Pilihan Ganda Kompleks (Benar/Salah)",
+      "rincian_kompetensi": "Menyelesaikan persamaan linier 1 variabel."
+    },
+    "stimulus": {
+      "judul": "Kafein dalam Minuman",
+      "isi_wacana": "Kopi merupakan salah satu minuman yang mengandung kafein. Batas konsumsi kafein yang aman adalah 400 mg per hari...",
+      "aset_visual": ["url_gambar_kopi.jpg", "url_tabel_kafein.png"],
+      "glosarium": [
+        {"kata": "Kafein", "arti": "Zat stimulan yang terdapat pada kopi"}
+      ],
+      "sumber": "https://sumber-artikel-kesehatan.com"
+    },
+    "pertanyaan": {
+      "pokok_soal": "Tentukan Benar atau Salah pernyataan berikut berdasarkan batas konsumsi kafein yang aman!",
+      "tipe_pilihan": "tabel_kategori",
+      "daftar_pilihan": [
+        {
+          "id_item": "item_1",
+          "pernyataan_atau_premis": "Minum 3 cangkir kopi (195 mg kafein) per hari masih dalam batas aman.",
+          "kategori_tersedia": ["Benar", "Salah"]
+        },
+        {
+          "id_item": "item_2",
+          "pernyataan_atau_premis": "Minum 5 cangkir teh (450 mg kafein) per hari masih dalam batas aman.",
+          "kategori_tersedia": ["Benar", "Salah"]
+        }
+      ]
+    },
+    "pedoman_penskoran": {
+      "tipe_skoring": "objektif",
+      "kunci_jawaban": [
+        {"id_item": "item_1", "jawaban_benar": "Benar"},
+        {"id_item": "item_2", "jawaban_benar": "Salah"}
+      ],
+      "rubrik_uraian": null,
+      "pembahasan": "Batas aman adalah 400 mg. Pernyataan 1 total 195mg (<400mg) maka Benar. Pernyataan 2 total 450mg (>400mg) maka Salah."
+    }
+  }
+}
