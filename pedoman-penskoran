@@ -1,0 +1,59 @@
+{
+  "pedoman_penskoran": {
+    "soal_objektif": {
+      "deskripsi": "Sistem penskoran pasti/otomatis untuk soal dengan jawaban tunggal atau yang sudah ditetapkan.",
+      "berlaku_untuk": [
+        "Pilihan Ganda",
+        "Pilihan Ganda Kompleks (Multi Answer)",
+        "Pilihan Ganda Kompleks (Benar/Salah, Ya/Tidak)",
+        "Menjodohkan",
+        "Isian atau Jawaban Singkat"
+      ],
+      "skor": [
+        {
+          "nilai": 1,
+          "keterangan": "Menjawab benar"
+        },
+        {
+          "nilai": 0,
+          "keterangan": "Menjawab salah"
+        }
+      ]
+    },
+    "soal_uraian": {
+      "deskripsi": "Sistem penskoran berjenjang yang menilai kemampuan mengorganisasikan dan mengekspresikan gagasan.",
+      "uraian_kompleks": [
+        {
+          "nilai": 2,
+          "keterangan": "Memenuhi semua kriteria kunci jawaban"
+        },
+        {
+          "nilai": 1,
+          "keterangan": "Jawaban kurang memenuhi kriteria atau kunci jawaban"
+        },
+        {
+          "nilai": 0,
+          "keterangan": "Jawaban salah"
+        },
+        {
+          "kode": 9,
+          "keterangan": "Tidak menjawab"
+        }
+      ],
+      "uraian_sederhana": [
+        {
+          "nilai": 1,
+          "keterangan": "Memenuhi semua kriteria kunci jawaban"
+        },
+        {
+          "nilai": 0,
+          "keterangan": "Jawaban salah"
+        },
+        {
+          "kode": 9,
+          "keterangan": "Tidak menjawab"
+        }
+      ]
+    }
+  }
+}
