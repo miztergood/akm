@@ -1,0 +1,219 @@
+{
+  "parameter_stimulus": {
+    "konteks": ["Personal", "Sosial Budaya", "Saintifik"],
+    "konten_literasi": ["Teks Fiksi", "Teks Informasi"],
+    "konten_numerasi": [
+      "Bilangan", 
+      "Geometri dan Pengukuran", 
+      "Aljabar", 
+      "Data dan Ketidakpastian"
+    ]
+  },
+  "level_kognitif": {
+    "literasi": [
+      "Mengakses dan Menemukan Informasi (Access and Retrieve)",
+      "Menginterpretasi dan Mengintegrasi (Interpret and Integrate)",
+      "Mengevaluasi dan Merefleksi (Evaluate and Reflect)"
+    ],
+    "numerasi": [
+      "Knowing (Pengetahuan dan Pemahaman)",
+      "Applying (Penerapan)",
+      "Reasoning (Penalaran)"
+    ]
+  },
+  "batasan_teks_literasi": [
+    {"level": 1, "kelas": "1 dan 2", "maksimal_kata": 75},
+    {"level": 2, "kelas": "3 dan 4", "maksimal_kata": 100},
+    {"level": 3, "kelas": "5 dan 6", "maksimal_kata": 200},
+    {"level": 4, "kelas": "7 dan 8", "maksimal_kata": 300},
+    {"level": 5, "kelas": "9 dan 10", "maksimal_kata": 400},
+    {"level": 6, "kelas": "11 dan 12", "maksimal_kata": 700}
+  ],
+  "kaidah_bentuk_soal": {
+    "pilihan_ganda": [
+      {"kelas": "1 s.d 3", "jumlah_pilihan": 3, "opsi": ["A", "B", "C"]},
+      {"kelas": "4 s.d 9", "jumlah_pilihan": 4, "opsi": ["A", "B", "C", "D"]},
+      {"kelas": "10 s.d 12", "jumlah_pilihan": 5, "opsi": ["A", "B", "C", "D", "E"]}
+    ],
+    "pilihan_ganda_kompleks_multi_answer": [
+      {"kelas": "1 s.d 6", "jumlah_pernyataan": 3},
+      {"kelas": "7 s.d 10", "jumlah_pernyataan": 4},
+      {"kelas": "11 s.d 12", "jumlah_pernyataan": 5}
+    ],
+    "pilihan_ganda_kompleks_kategori": {
+      "kategori_opsi": ["Benar/Salah", "Ya/Tidak"],
+      "aturan_kelas": [
+        {"kelas": "1 s.d 4", "jumlah_pernyataan": 2},
+        {"kelas": "5 s.d 10", "jumlah_pernyataan": 3},
+        {"kelas": "11 s.d 12", "jumlah_pernyataan": 4}
+      ]
+    },
+    "menjodohkan": {
+      "aturan_umum": "Jumlah respon (jawaban di kanan) harus lebih banyak dari jumlah premis (pernyataan di kiri).",
+      "aturan_kelas": [
+        {"kelas": "1 s.d 6", "jumlah_premis": 3},
+        {"kelas": "7 s.d 10", "jumlah_premis": 4},
+        {"kelas": "11 s.d 12", "jumlah_premis": 5}
+      ]
+    },
+    "isian_atau_jawaban_singkat": {
+      "isian": "Pokok soal disusun dalam bentuk kalimat berita (tidak lengkap).",
+      "jawaban_singkat": "Pokok soal disusun dalam bentuk pertanyaan."
+    },
+    "uraian": {
+      "keterangan": "Menuntut peserta didik mengekspresikan gagasan dalam bentuk tertulis yang diskor sesuai kompleksitas."
+    }
+  },
+  "pedoman_penskoran": {
+    "soal_objektif": {
+      "berlaku_untuk": ["Pilihan Ganda", "Pilihan Ganda Kompleks", "Menjodohkan", "Isian atau Jawaban Singkat"],
+      "skor_benar": 1,
+      "skor_salah": 0
+    },
+    "soal_uraian_kompleks": {
+      "memenuhi_semua_kriteria": 2,
+      "kurang_memenuhi_kriteria": 1,
+      "salah": 0,
+      "tidak_menjawab_kode": 9
+    },
+    "soal_uraian_sederhana": {
+      "memenuhi_semua_kriteria": 1,
+      "salah": 0,
+      "tidak_menjawab_kode": 9
+    }
+  },
+  "skema_kisi_kisi": {
+    "literasi": ["No", "Jenis Teks", "Level", "Konteks", "Kompetensi", "Level Kognitif", "Bentuk Soal", "Indikator"],
+    "numerasi": ["No", "Domain", "Sub Domain", "Kelas", "Konteks", "Kompetensi", "Level Kognitif", "Bentuk Soal", "Indikator"]
+  }
+}
+Cara Menggunakan File Ini di Aplikasi Anda: Anda dapat menggabungkan data ini dengan data Learning Progression JSON yang sudah dibuat sebelumnya. Jika Anda menggunakan sistem AI/Prompting di balik aplikasi Anda, suntikkan JSON "Kaidah Bentuk Soal" dan "Batasan Teks" ke dalam system prompt saat memproses request user. Misalnya, saat user meminta "Buat soal kelas 8 Pilihan Ganda", engine aplikasi akan otomatis melihat ke database dan memastikan bahwa opsi yang dimunculkan maksimal A, B, C, D
+ dan jumlah kata dalam teksnya tidak boleh melebihi 300 kata
+.
+Bagaimana aturan panjang wacana teks literasi untuk setiap level?
+Apa perbedaan jumlah pilihan jawaban PG untuk jenjang SMA?
+Berikan contoh skema database untuk pedoman penskoran soal uraian.
+lanjut yang ke 2 Level Kognitif: Mengatur tingkat kesulitan proses berpikir untuk Literasi dan Numerasi
+
+Baik, kita lanjut ke ceklist nomor 2, yaitu Level Kognitif untuk Literasi Membaca dan Numerasi.
+Level kognitif ini sangat penting bagi database aplikasi Anda karena akan menjadi parameter pengukur kedalaman berpikir peserta didik. Untuk Literasi Membaca, level kognitif terbagi menjadi 3 tingkatan (Menemukan Informasi, Menginterpretasi & Mengintegrasi, serta Mengevaluasi & Merefleksi)
+. Sementara untuk Numerasi, level kognitifnya juga terbagi menjadi 3 (Knowing, Applying, dan Reasoning) beserta rincian aspek perilakunya
+.
+Berikut adalah data JSON berstruktur yang memuat definisi, deskripsi, dan rincian/aspek dari masing-masing Level Kognitif berdasarkan kerangka AKM, siap untuk Anda masukkan ke dalam database:
+{
+  "level_kognitif": {
+    "literasi_membaca": [
+      {
+        "id_level": "L1",
+        "kompetensi": "Menemukan Informasi (Access and Retrieve)",
+        "deskripsi": "Kemampuan menemukan, mengidentifikasi, dan mendeskripsikan suatu gagasan atau informasi eksplisit dalam teks.",
+        "sub_kompetensi": [
+          "Mengakses dan mencari informasi dalam teks.",
+          "Mencari dan memilih informasi yang relevan."
+        ]
+      },
+      {
+        "id_level": "L2",
+        "kompetensi": "Menginterpretasi dan Mengintegrasikan (Interpret and Integrate)",
+        "deskripsi": "Kemampuan memahami materi bacaan dengan menginterpretasi dan mengintegrasikan beragam informasi yang diperoleh dari satu teks (teks tunggal) maupun beberapa teks (teks jamak) yang saling terkait.",
+        "sub_kompetensi": [
+          "Memahami ide teks secara literal.",
+          "Menyusun inferensi, membuat koneksi dan prediksi baik teks tunggal maupun teks jamak."
+        ]
+      },
+      {
+        "id_level": "L3",
+        "kompetensi": "Mengevaluasi dan Merefleksi (Evaluate and Reflect)",
+        "deskripsi": "Kemampuan menggunakan pengetahuan, ide, atau sikap yang berada di luar teks untuk menilai atau merefleksi materi pada teks tersebut.",
+        "sub_kompetensi": [
+          "Menilai kualitas dan kredibilitas konten pada teks informasi tunggal maupun jamak.",
+          "Menilai format penyajian dalam teks.",
+          "Merefleksi isi wacana untuk pengambilan keputusan, menetapkan pilihan, dan mengaitkan isi teks terhadap pengalaman pribadi."
+        ]
+      }
+    ],
+    "numerasi": [
+      {
+        "id_level": "N1",
+        "kompetensi": "Knowing (Pengetahuan dan Pemahaman)",
+        "deskripsi": "Menilai kemampuan pengetahuan dan pemahaman dasar peserta didik tentang fakta, proses, konsep, dan prosedur matematika eksplisit.",
+        "aspek_kemampuan": [
+          {
+            "aspek": "Mengingat",
+            "contoh": "Mengingat definisi, sifat bilangan, unit pengukuran, sifat bentuk geometris, notasi bilangan."
+          },
+          {
+            "aspek": "Mengidentifikasi",
+            "contoh": "Mengidentifikasi bilangan, ekspresi, kuantitas, dan bentuk. Mengidentifikasi identitas yang secara matematis setara."
+          },
+          {
+            "aspek": "Mengklasifikasikan",
+            "contoh": "Mengklasifikasikan bilangan, ekspresi, jumlah, dan bentuk-bentuk yang memiliki sifat yang serupa."
+          },
+          {
+            "aspek": "Menghitung",
+            "contoh": "Melakukan prosedur algoritma: penambahan, pengurangan, perkalian, dan pembagian serta kombinasinya, melakukan prosedur aljabar yang efektif."
+          },
+          {
+            "aspek": "Mengambil/Memperoleh",
+            "contoh": "Mengambil/memperoleh informasi dari bagan, tabel, teks, atau sumber-sumber yang lain."
+          },
+          {
+            "aspek": "Mengukur",
+            "contoh": "Menggunakan instrumen pengukuran dan memilih unit yang tepat."
+          }
+        ]
+      },
+      {
+        "id_level": "N2",
+        "kompetensi": "Applying (Penerapan)",
+        "deskripsi": "Menilai kemampuan matematika dalam menerapkan pengetahuan dan pemahaman tentang fakta-fakta, relasi, proses, konsep, prosedur, dan metode pada konteks situasi nyata.",
+        "aspek_kemampuan": [
+          {
+            "aspek": "Memilih strategi",
+            "contoh": "Menentukan operasi, strategi, dan aturan yang sesuai dan efisien untuk memecahkan masalah dunia nyata."
+          },
+          {
+            "aspek": "Menyatakan/membuat model",
+            "contoh": "Menyajikan data dalam tabel atau grafik, merumuskan persamaan, pertidaksamaan, gambar geometris, atau diagram yang memodelkan suatu masalah."
+          },
+          {
+            "aspek": "Menerapkan/melaksanakan",
+            "contoh": "Menerapkan/melaksanakan strategi dan operasi untuk memecahkan masalah dunia nyata yang berkaitan dengan konsep dan prosedur matematika yang dikenal."
+          },
+          {
+            "aspek": "Menafsirkan",
+            "contoh": "Memberikan interpretasi atau tafsiran terhadap penyelesaian masalah yang diperoleh."
+          }
+        ]
+      },
+      {
+        "id_level": "N3",
+        "kompetensi": "Reasoning (Penalaran)",
+        "deskripsi": "Menilai kemampuan penalaran peserta didik dalam menganalisis data dan informasi, membuat kesimpulan, dan memperluas pemahaman mereka dalam situasi baru, kompleks, atau tidak rutin.",
+        "aspek_kemampuan": [
+          {
+            "aspek": "Menganalisis",
+            "contoh": "Menentukan, menggambar, atau menggunakan hubungan dalam bilangan, ekspresi, jumlah, dan bentuk."
+          },
+          {
+            "aspek": "Memadukan",
+            "contoh": "Menghubungkan elemen, pengetahuan yang berbeda, menghubungkan representasi untuk memecahkan masalah."
+          },
+          {
+            "aspek": "Mengevaluasi",
+            "contoh": "Menilai strategi pemecahan masalah dan solusi alternatif."
+          },
+          {
+            "aspek": "Menyimpulkan",
+            "contoh": "Membuat kesimpulan yang valid berdasarkan informasi dan fakta-fakta."
+          },
+          {
+            "aspek": "Membuat justifikasi",
+            "contoh": "Memberikan argumen matematis untuk mendukung klaim."
+          }
+        ]
+      }
+    ]
+  }
+}
