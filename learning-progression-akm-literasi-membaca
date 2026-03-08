@@ -1,0 +1,247 @@
+[
+  {
+    "kompetensi": "Mengakses dan Menemukan Informasi (Access and Retrieve)",
+    "sub_kompetensi": "Mengakses dan mencari informasi dalam teks",
+    "level": 1,
+    "kelas": "1 dan 2",
+    "rincian_kompetensi": "Menemukan informasi tersurat (siapa, kapan, di mana, mengapa, bagaimana) pada teks informasi atau teks fiksi."
+  },
+  {
+    "kompetensi": "Mengakses dan Menemukan Informasi (Access and Retrieve)",
+    "sub_kompetensi": "Mengakses dan mencari informasi dalam teks",
+    "level": 2,
+    "kelas": "3 dan 4",
+    "rincian_kompetensi": "Menemukan informasi tersurat (siapa, kapan, di mana, mengapa, bagaimana) pada teks informasi atau teks fiksi."
+  },
+  {
+    "kompetensi": "Mengakses dan Menemukan Informasi (Access and Retrieve)",
+    "sub_kompetensi": "Mengakses dan mencari informasi dalam teks",
+    "level": 3,
+    "kelas": "5 dan 6",
+    "rincian_kompetensi": "Menemukan informasi tersurat (siapa, kapan, di mana, mengapa, bagaimana) pada teks informasi atau teks fiksi."
+  },
+  {
+    "kompetensi": "Mengakses dan Menemukan Informasi (Access and Retrieve)",
+    "sub_kompetensi": "Mengakses dan mencari informasi dalam teks",
+    "level": 4,
+    "kelas": "7 dan 8",
+    "rincian_kompetensi": "Menemukan informasi tersurat (siapa, kapan, di mana, mengapa, bagaimana) pada teks informasi atau teks fiksi."
+  },
+  {
+    "kompetensi": "Mengakses dan Menemukan Informasi (Access and Retrieve)",
+    "sub_kompetensi": "Mengakses dan mencari informasi dalam teks",
+    "level": 5,
+    "kelas": "9 dan 10",
+    "rincian_kompetensi": "Menemukan informasi tersurat (siapa, kapan, di mana, mengapa, bagaimana) pada teks informasi atau teks fiksi."
+  },
+  {
+    "kompetensi": "Mengakses dan Menemukan Informasi (Access and Retrieve)",
+    "sub_kompetensi": "Mengakses dan mencari informasi dalam teks",
+    "level": 6,
+    "kelas": "11 dan 12",
+    "rincian_kompetensi": "Menemukan informasi tersurat (siapa, kapan, di mana, mengapa, bagaimana) pada teks informasi atau teks fiksi."
+  },
+  {
+    "kompetensi": "Mengakses dan Menemukan Informasi (Access and Retrieve)",
+    "sub_kompetensi": "Mencari dan memilih informasi yang relevan",
+    "level": 4,
+    "kelas": "7 dan 8",
+    "rincian_kompetensi": "Mengidentifikasi kata kunci yang efektif untuk menemukan sumber informasi yang relevan pada teks informasi."
+  },
+  {
+    "kompetensi": "Mengakses dan Menemukan Informasi (Access and Retrieve)",
+    "sub_kompetensi": "Mencari dan memilih informasi yang relevan",
+    "level": 5,
+    "kelas": "9 dan 10",
+    "rincian_kompetensi": "Mengidentifikasi kata kunci yang efektif untuk menemukan sumber informasi yang relevan pada teks informasi."
+  },
+  {
+    "kompetensi": "Mengakses dan Menemukan Informasi (Access and Retrieve)",
+    "sub_kompetensi": "Mencari dan memilih informasi yang relevan",
+    "level": 6,
+    "kelas": "11 dan 12",
+    "rincian_kompetensi": "Mengidentifikasi kata kunci yang efektif untuk menemukan sumber informasi yang relevan pada teks informasi."
+  },
+  {
+    "kompetensi": "Menginterpretasi dan Mengintegrasi (Interpret and Integrate)",
+    "sub_kompetensi": "Memahami teks secara literal",
+    "level": 1,
+    "kelas": "1 dan 2",
+    "rincian_kompetensi": "Mengidentifikasi topik atau fokus pembahasan pada teks informasi, dan mengidentifikasi kejadian yang dihadapi tokoh pada teks fiksi."
+  },
+  {
+    "kompetensi": "Menginterpretasi dan Mengintegrasi (Interpret and Integrate)",
+    "sub_kompetensi": "Memahami teks secara literal",
+    "level": 2,
+    "kelas": "3 dan 4",
+    "rincian_kompetensi": "Menjelaskan ide pokok dan beberapa ide pendukung pada teks informasi, serta mengidentifikasi dan menjelaskan permasalahan yang dihadapi tokoh pada teks fiksi."
+  },
+  {
+    "kompetensi": "Menginterpretasi dan Mengintegrasi (Interpret and Integrate)",
+    "sub_kompetensi": "Memahami teks secara literal",
+    "level": 3,
+    "kelas": "5 dan 6",
+    "rincian_kompetensi": "Menjelaskan ide pokok dan beberapa ide pendukung pada teks informasi, serta mengidentifikasi perubahan dalam elemen intrinsik (kejadian, karakter, setting, konflik, alur cerita) pada teks fiksi."
+  },
+  {
+    "kompetensi": "Menginterpretasi dan Mengintegrasi (Interpret and Integrate)",
+    "sub_kompetensi": "Memahami teks secara literal",
+    "level": 4,
+    "kelas": "7 dan 8",
+    "rincian_kompetensi": "Menjelaskan ide pokok dan beberapa ide pendukung pada teks informasi, serta mengidentifikasi dan menjelaskan perubahan pada elemen intrinsik pada teks fiksi."
+  },
+  {
+    "kompetensi": "Menginterpretasi dan Mengintegrasi (Interpret and Integrate)",
+    "sub_kompetensi": "Memahami teks secara literal",
+    "level": 5,
+    "kelas": "9 dan 10",
+    "rincian_kompetensi": "Menjelaskan ide pokok dan beberapa ide pendukung pada teks informasi, serta mengidentifikasi dan menjelaskan perubahan pada elemen intrinsik pada teks fiksi."
+  },
+  {
+    "kompetensi": "Menginterpretasi dan Mengintegrasi (Interpret and Integrate)",
+    "sub_kompetensi": "Memahami teks secara literal",
+    "level": 6,
+    "kelas": "11 dan 12",
+    "rincian_kompetensi": "Menjelaskan ide pokok dan beberapa ide pendukung pada teks informasi, serta mengidentifikasi dan menjelaskan perubahan pada elemen intrinsik pada teks fiksi."
+  },
+  {
+    "kompetensi": "Menginterpretasi dan Mengintegrasi (Interpret and Integrate)",
+    "sub_kompetensi": "Menyusun inferensi, membuat koneksi dan prediksi baik teks tunggal maupun teks jamak",
+    "level": 1,
+    "kelas": "1 dan 2",
+    "rincian_kompetensi": "Menyimpulkan perasaan dan sifat tokoh pada teks fiksi, menyimpulkan isi atau substansi (fakta/data) pada teks informasi, serta membandingkan hal-hal utama dalam teks informasi dan fiksi."
+  },
+  {
+    "kompetensi": "Menginterpretasi dan Mengintegrasi (Interpret and Integrate)",
+    "sub_kompetensi": "Menyusun inferensi, membuat koneksi dan prediksi baik teks tunggal maupun teks jamak",
+    "level": 2,
+    "kelas": "3 dan 4",
+    "rincian_kompetensi": "Menyimpulkan perasaan dan sifat tokoh serta elemen intrinsik lain pada teks fiksi, menyimpulkan isi/substansi (fakta/data dan konsep) pada teks informasi, menyusun inferensi untuk menentukan relevansi pertanyaan/pernyataan dengan isi teks, serta membandingkan hal-hal utama."
+  },
+  {
+    "kompetensi": "Menginterpretasi dan Mengintegrasi (Interpret and Integrate)",
+    "sub_kompetensi": "Menyusun inferensi, membuat koneksi dan prediksi baik teks tunggal maupun teks jamak",
+    "level": 3,
+    "kelas": "5 dan 6",
+    "rincian_kompetensi": "Menyimpulkan perasaan dan sifat tokoh serta elemen intrinsik lain pada teks fiksi, menyimpulkan isi/substansi (fakta/data, konsep dan prinsip) pada teks informasi, menyusun inferensi berdasarkan unsur-unsur pendukung teks, serta membandingkan hal-hal utama."
+  },
+  {
+    "kompetensi": "Menginterpretasi dan Mengintegrasi (Interpret and Integrate)",
+    "sub_kompetensi": "Menyusun inferensi, membuat koneksi dan prediksi baik teks tunggal maupun teks jamak",
+    "level": 4,
+    "kelas": "7 dan 8",
+    "rincian_kompetensi": "Menyimpulkan perasaan dan sifat tokoh serta elemen intrinsik lain pada teks fiksi, menyimpulkan isi/substansi (fakta/data, konsep, prinsip dan prosedur) pada teks informasi, menyusun inferensi dan prediksi berdasarkan unsur pendukung teks, serta membandingkan hal-hal utama."
+  },
+  {
+    "kompetensi": "Menginterpretasi dan Mengintegrasi (Interpret and Integrate)",
+    "sub_kompetensi": "Menyusun inferensi, membuat koneksi dan prediksi baik teks tunggal maupun teks jamak",
+    "level": 5,
+    "kelas": "9 dan 10",
+    "rincian_kompetensi": "Menyimpulkan perasaan dan sifat tokoh serta elemen intrinsik lain pada teks fiksi, menyimpulkan isi/substansi (fakta/data, konsep, prinsip dan prosedur) pada teks informasi, menyusun inferensi dan prediksi berdasarkan unsur pendukung teks, serta membandingkan hal-hal utama."
+  },
+  {
+    "kompetensi": "Menginterpretasi dan Mengintegrasi (Interpret and Integrate)",
+    "sub_kompetensi": "Menyusun inferensi, membuat koneksi dan prediksi baik teks tunggal maupun teks jamak",
+    "level": 6,
+    "kelas": "11 dan 12",
+    "rincian_kompetensi": "Menyimpulkan perasaan dan sifat tokoh serta elemen intrinsik lain pada teks fiksi, menyimpulkan perbedaan perspektif isi/substansi pada teks informasi, menyusun generalisasi (kesimpulan umum) dari hasil inferensi terhadap ide-ide/gagasan/tema yang terkandung di dalam teks, serta membandingkan hal-hal utama."
+  },
+  {
+    "kompetensi": "Mengevaluasi dan Merefleksi (Evaluate and Reflect)",
+    "sub_kompetensi": "Menilai kualitas dan kredibilitas konten pada teks informasi tunggal maupun jamak",
+    "level": 4,
+    "kelas": "7 dan 8",
+    "rincian_kompetensi": "Menilai akurasi informasi visual atau non visual dan menilai akurasi sumber informasi (orang/lembaga/institusi) dalam teks informasi."
+  },
+  {
+    "kompetensi": "Mengevaluasi dan Merefleksi (Evaluate and Reflect)",
+    "sub_kompetensi": "Menilai kualitas dan kredibilitas konten pada teks informasi tunggal maupun jamak",
+    "level": 5,
+    "kelas": "9 dan 10",
+    "rincian_kompetensi": "Menilai akurasi informasi visual atau non visual dan sumber informasi pada teks informasi, serta menilai kebaruan dan keunikan pemilihan tema teks fiksi."
+  },
+  {
+    "kompetensi": "Mengevaluasi dan Merefleksi (Evaluate and Reflect)",
+    "sub_kompetensi": "Menilai kualitas dan kredibilitas konten pada teks informasi tunggal maupun jamak",
+    "level": 6,
+    "kelas": "11 dan 12",
+    "rincian_kompetensi": "Menilai akurasi informasi visual atau non visual dan sumber informasi pada teks informasi, serta menilai kreativitas penggambaran realitas (kondisi masyarakat) melalui unsur intrinsik teks fiksi."
+  },
+  {
+    "kompetensi": "Mengevaluasi dan Merefleksi (Evaluate and Reflect)",
+    "sub_kompetensi": "Menilai format penyajian dalam teks",
+    "level": 1,
+    "kelas": "1 dan 2",
+    "rincian_kompetensi": "Menilai kesesuaian antara ilustrasi dengan isi teks informasi atau teks fiksi."
+  },
+  {
+    "kompetensi": "Mengevaluasi dan Merefleksi (Evaluate and Reflect)",
+    "sub_kompetensi": "Menilai format penyajian dalam teks",
+    "level": 2,
+    "kelas": "3 dan 4",
+    "rincian_kompetensi": "Menilai kesesuaian antara ilustrasi dengan isi teks informasi atau teks fiksi."
+  },
+  {
+    "kompetensi": "Mengevaluasi dan Merefleksi (Evaluate and Reflect)",
+    "sub_kompetensi": "Menilai format penyajian dalam teks",
+    "level": 3,
+    "kelas": "5 dan 6",
+    "rincian_kompetensi": "Menilai kesesuaian antara ilustrasi dengan isi teks informasi atau teks fiksi."
+  },
+  {
+    "kompetensi": "Mengevaluasi dan Merefleksi (Evaluate and Reflect)",
+    "sub_kompetensi": "Menilai format penyajian dalam teks",
+    "level": 4,
+    "kelas": "7 dan 8",
+    "rincian_kompetensi": "Menilai kesesuaian pemilihan warna, tata letak, dan pendukung visual lain (grafik, tabel dll) dalam menyampaikan pesan/topik dalam teks informasi atau teks fiksi."
+  },
+  {
+    "kompetensi": "Mengevaluasi dan Merefleksi (Evaluate and Reflect)",
+    "sub_kompetensi": "Menilai format penyajian dalam teks",
+    "level": 5,
+    "kelas": "9 dan 10",
+    "rincian_kompetensi": "Menilai kesesuaian pemilihan warna dan tata letak, menilai efektivitas format penyajian data, menilai penggunaan diksi pada teks fiksi, serta menilai dan mengidentifikasi bias pada penulisan teks informasi."
+  },
+  {
+    "kompetensi": "Mengevaluasi dan Merefleksi (Evaluate and Reflect)",
+    "sub_kompetensi": "Menilai format penyajian dalam teks",
+    "level": 6,
+    "kelas": "11 dan 12",
+    "rincian_kompetensi": "Menilai kesesuaian pemilihan warna dan tata letak, menilai efektivitas format penyajian data, menilai penggunaan diksi dan majas (metafora, analogi, personifikasi) dalam teks fiksi, serta menilai dan mengidentifikasi bias pada penulisan teks informasi."
+  },
+  {
+    "kompetensi": "Mengevaluasi dan Merefleksi (Evaluate and Reflect)",
+    "sub_kompetensi": "Merefleksi isi wacana untuk pengambilan keputusan, menetapkan pilihan, dan mengaitkan isi teks terhadap pengalaman pribadi",
+    "level": 2,
+    "kelas": "3 dan 4",
+    "rincian_kompetensi": "Mengaitkan isi teks informasi atau teks fiksi dengan pengalaman individual."
+  },
+  {
+    "kompetensi": "Mengevaluasi dan Merefleksi (Evaluate and Reflect)",
+    "sub_kompetensi": "Merefleksi isi wacana untuk pengambilan keputusan, menetapkan pilihan, dan mengaitkan isi teks terhadap pengalaman pribadi",
+    "level": 3,
+    "kelas": "5 dan 6",
+    "rincian_kompetensi": "Merefleksikan pengetahuan baru yang diperoleh dari teks informasi atau teks fiksi dengan pengetahuan yang dimiliki."
+  },
+  {
+    "kompetensi": "Mengevaluasi dan Merefleksi (Evaluate and Reflect)",
+    "sub_kompetensi": "Merefleksi isi wacana untuk pengambilan keputusan, menetapkan pilihan, dan mengaitkan isi teks terhadap pengalaman pribadi",
+    "level": 4,
+    "kelas": "7 dan 8",
+    "rincian_kompetensi": "Merefleksikan pengetahuan baru yang diperoleh dari teks informasi atau teks fiksi dengan pengetahuan yang dimiliki."
+  },
+  {
+    "kompetensi": "Mengevaluasi dan Merefleksi (Evaluate and Reflect)",
+    "sub_kompetensi": "Merefleksi isi wacana untuk pengambilan keputusan, menetapkan pilihan, dan mengaitkan isi teks terhadap pengalaman pribadi",
+    "level": 5,
+    "kelas": "9 dan 10",
+    "rincian_kompetensi": "Menilai suatu pendapat atau opini berdasarkan isi teks informasi atau teks fiksi."
+  },
+  {
+    "kompetensi": "Mengevaluasi dan Merefleksi (Evaluate and Reflect)",
+    "sub_kompetensi": "Merefleksi isi wacana untuk pengambilan keputusan, menetapkan pilihan, dan mengaitkan isi teks terhadap pengalaman pribadi",
+    "level": 6,
+    "kelas": "11 dan 12",
+    "rincian_kompetensi": "Merefleksi (mengontraskan, mengombinasikan, mengintegrasikan, dll) asumsi, ideologi, atau nilai yang terkandung dari teks informasi atau teks fiksi untuk memahami cara pandang penulis."
+  }
+]
