@@ -1,0 +1,30 @@
+{
+  "skema_kisi_kisi": {
+    "deskripsi": "Format tabel blueprint untuk menyajikan ringkasan soal yang telah di-generate oleh sistem.",
+    "literasi_membaca": {
+      "kolom_tabel": [
+        "No",
+        "Jenis Teks",
+        "Level",
+        "Konteks",
+        "Kompetensi",
+        "Level Kognitif",
+        "Bentuk Soal",
+        "Indikator"
+      ]
+    },
+    "numerasi": {
+      "kolom_tabel": [
+        "No",
+        "Domain",
+        "Sub Domain",
+        "Kelas",
+        "Konteks",
+        "Kompetensi",
+        "Level Kognitif",
+        "Bentuk Soal",
+        "Indikator"
+      ]
+    }
+  }
+}
