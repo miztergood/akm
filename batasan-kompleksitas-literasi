@@ -1,0 +1,52 @@
+{
+  "batasan_kompleksitas_teks_literasi": [
+    {
+      "level": 1,
+      "kelas": "1 dan 2",
+      "panjang_wacana_maksimal": 75,
+      "aturan_kata_dan_kalimat": "Kosa kata sehari-hari yang memiliki awalan dan akhiran. Menggunakan kalimat tunggal dengan subjek, predikat, dan objek.",
+      "unsur_cerita_fiksi": "Jumlah tokoh maksimal 3 orang, menggunakan alur maju.",
+      "ruang_lingkup_kognitif": "Pra operasional (penggunaan gambar konkret untuk memperjelas makna) dan operasional konkret (ruang lingkup sehari-hari: tubuhku, keluargaku, sekolah)."
+    },
+    {
+      "level": 2,
+      "kelas": "3 dan 4",
+      "panjang_wacana_maksimal": 100,
+      "aturan_kata_dan_kalimat": "Kosa kata baru dengan awalan dan akhiran yang dipertegas dengan konteks kalimat dan ilustrasi visual yang sesuai.",
+      "unsur_cerita_fiksi": "Jumlah tokoh maksimal 4 orang, menggunakan alur maju.",
+      "ruang_lingkup_kognitif": "Operasional konkret (penggunaan bahasa sehari-hari, bukan bahasa kajian ilmiah, ilustrasi bersifat konkret, belum berbentuk infografis yang rumit)."
+    },
+    {
+      "level": 3,
+      "kelas": "5 dan 6",
+      "panjang_wacana_maksimal": 200,
+      "aturan_kata_dan_kalimat": "Kata-kata dengan infiks (sisipan) dan sirkumfiks (awalan-akhiran) diperjelas dengan konteks kalimat. Kalimat dengan kosakata baru yang dapat diidentifikasi menggunakan alat bantu seperti glosarium/kamus.",
+      "unsur_cerita_fiksi": "Jumlah tokoh maksimal 5 orang, sudah bisa menggunakan kombinasi alur maju dan flashback (kilas balik).",
+      "ruang_lingkup_kognitif": "Mulai masuk ke tahapan operasional formal (penggunaan bahasa kajian sesuai jenjangnya, ilustrasi/infografis sesuai jenjangnya)."
+    },
+    {
+      "level": 4,
+      "kelas": "7 dan 8",
+      "panjang_wacana_maksimal": 300,
+      "aturan_kata_dan_kalimat": "Boleh menggunakan kalimat dengan kosakata serapan atau teknis yang maknanya dapat diidentifikasi menggunakan alat bantu glosarium/kamus.",
+      "unsur_cerita_fiksi": "Jumlah tokoh tak terbatas, dapat menggunakan alur maju, flashback, dan campuran.",
+      "ruang_lingkup_kognitif": "Operasional formal dengan bahasa kajian/ilmiah dan infografis yang memuat data lebih padat."
+    },
+    {
+      "level": 5,
+      "kelas": "9 dan 10",
+      "panjang_wacana_maksimal": 400,
+      "aturan_kata_dan_kalimat": "Menggunakan kalimat majemuk bertingkat dan kosakata serapan/teknis yang membutuhkan pemahaman glosarium.",
+      "unsur_cerita_fiksi": "Jumlah tokoh tak terbatas, alur maju, flashback, dan campuran, serta mulai menggunakan sudut pandang penceritaan (point of view) yang beragam.",
+      "ruang_lingkup_kognitif": "Operasional formal tingkat lanjut dengan teks yang mengangkat topik baru, kompleks, dan butuh sintesis informasi."
+    },
+    {
+      "level": 6,
+      "kelas": "11 dan 12",
+      "panjang_wacana_maksimal": 700,
+      "aturan_kata_dan_kalimat": "Bebas menggunakan kalimat konotatif, retoris, deklaratif, interogatif dengan ragam bahasa figuratif (majas/kiasan).",
+      "unsur_cerita_fiksi": "Jumlah tokoh tak terbatas, alur maju, flashback, dan campuran, sudut pandang penceritaan beragam, serta tema abstrak atau filosofis.",
+      "ruang_lingkup_kognitif": "Mampu mengembangkan hipotesis terkait teks yang mengangkat topik baru, kompleks, dan abstrak dengan sesedikit mungkin bantuan visual."
+    }
+  ]
+}
