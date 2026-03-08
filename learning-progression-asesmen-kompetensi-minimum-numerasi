@@ -1,0 +1,290 @@
+[
+  {
+    "domain": "Bilangan",
+    "sub_domain": "Representasi",
+    "kelas": 2,
+    "kompetensi": "Memahami bilangan cacah (mencakup lambang bilangan, konsep nilai tempat - puluhan, satuan) serta memahami pecahan satuan sederhana 1/n (n = 2 s.d. 9)."
+  },
+  {
+    "domain": "Bilangan",
+    "sub_domain": "Representasi",
+    "kelas": 4,
+    "kompetensi": "Memahami bilangan cacah sampai empat angka (mencakup lambang bilangan dan nilai tempat ribuan, ratusan, puluhan, satuan) serta mengenali pecahan senilai dan menyatakan bilangan pecahan biasa dalam bentuk desimal."
+  },
+  {
+    "domain": "Bilangan",
+    "sub_domain": "Representasi",
+    "kelas": 6,
+    "kompetensi": "Memahami bilangan cacah sampai enam angka beserta lambang dan nilai tempatnya, serta menyatakan bilangan pecahan (biasa dan campuran) dalam bentuk persentase atau sebaliknya."
+  },
+  {
+    "domain": "Bilangan",
+    "sub_domain": "Representasi",
+    "kelas": 8,
+    "kompetensi": "Memahami bilangan bulat, bilangan berpangkat, dan bentuk akar."
+  },
+  {
+    "domain": "Bilangan",
+    "sub_domain": "Sifat Urutan",
+    "kelas": 2,
+    "kompetensi": "Membandingkan dua bilangan cacah maksimal dua angka."
+  },
+  {
+    "domain": "Bilangan",
+    "sub_domain": "Sifat Urutan",
+    "kelas": 4,
+    "kompetensi": "Membandingkan dua pecahan (dengan penyebut sama atau pembilang 1)."
+  },
+  {
+    "domain": "Bilangan",
+    "sub_domain": "Sifat Urutan",
+    "kelas": 6,
+    "kompetensi": "Mengurutkan beberapa bilangan dalam bentuk berbeda (cacah, pecahan, desimal, dan persentase)."
+  },
+  {
+    "domain": "Bilangan",
+    "sub_domain": "Sifat Urutan",
+    "kelas": 8,
+    "kompetensi": "Mengurutkan bilangan termasuk bilangan bulat negatif, desimal, persentase, dan pecahan."
+  },
+  {
+    "domain": "Bilangan",
+    "sub_domain": "Sifat Urutan",
+    "kelas": 10,
+    "kompetensi": "Mengurutkan bilangan termasuk bilangan bulat negatif, desimal, persentase, dan pecahan (PERLUASAN)."
+  },
+  {
+    "domain": "Bilangan",
+    "sub_domain": "Operasi",
+    "kelas": 2,
+    "kompetensi": "Menggunakan penjumlahan dan pengurangan dua bilangan cacah maksimal dua angka, termasuk mengestimasi hasil."
+  },
+  {
+    "domain": "Bilangan",
+    "sub_domain": "Operasi",
+    "kelas": 4,
+    "kompetensi": "Menggunakan penjumlahan, pengurangan, perkalian, dan pembagian dua bilangan cacah maksimal empat angka (termasuk estimasi hasil), serta menentukan faktor suatu bilangan cacah dan mengenal bilangan prima."
+  },
+  {
+    "domain": "Bilangan",
+    "sub_domain": "Operasi",
+    "kelas": 6,
+    "kompetensi": "Menggunakan operasi dasar pada bilangan cacah, pecahan, atau desimal maksimal enam angka (termasuk estimasi hasil), serta menentukan KPK dan FPB."
+  },
+  {
+    "domain": "Bilangan",
+    "sub_domain": "Operasi",
+    "kelas": 8,
+    "kompetensi": "Operasi pada bilangan bulat, pecahan, desimal, persen, dan bilangan berpangkat bulat."
+  },
+  {
+    "domain": "Bilangan",
+    "sub_domain": "Operasi",
+    "kelas": 10,
+    "kompetensi": "Operasi pada bilangan bulat, pecahan, desimal, persen, dan bilangan berpangkat bulat (PERLUASAN)."
+  },
+  {
+    "domain": "Geometri dan Pengukuran",
+    "sub_domain": "Bangun Geometri",
+    "kelas": 2,
+    "kompetensi": "Mengenal segiempat (persegi dan persegi panjang), segitiga, lingkaran, balok, dan kubus."
+  },
+  {
+    "domain": "Geometri dan Pengukuran",
+    "sub_domain": "Bangun Geometri",
+    "kelas": 4,
+    "kompetensi": "Mengidentifikasi ciri-ciri segiempat, segitiga, segibanyak, dan lingkaran (termasuk bangun komposit), serta mengenal prisma, tabung, limas, kerucut, dan bola."
+  },
+  {
+    "domain": "Geometri dan Pengukuran",
+    "sub_domain": "Bangun Geometri",
+    "kelas": 6,
+    "kompetensi": "Membedakan bangun datar dan bangun ruang (balok, kubus, limas, prisma, tabung, kerucut, dan bola) berdasarkan ciri-ciri dan jaring-jaringnya."
+  },
+  {
+    "domain": "Geometri dan Pengukuran",
+    "sub_domain": "Bangun Geometri",
+    "kelas": 8,
+    "kompetensi": "Menggunakan konsep Teorema Pythagoras."
+  },
+  {
+    "domain": "Geometri dan Pengukuran",
+    "sub_domain": "Bangun Geometri",
+    "kelas": 10,
+    "kompetensi": "Menggunakan konsep kesebangunan dan kekongruenan."
+  },
+  {
+    "domain": "Geometri dan Pengukuran",
+    "sub_domain": "Pengukuran",
+    "kelas": 2,
+    "kompetensi": "Mengukur panjang dan berat benda dengan satuan tidak baku."
+  },
+  {
+    "domain": "Geometri dan Pengukuran",
+    "sub_domain": "Pengukuran",
+    "kelas": 4,
+    "kompetensi": "Menentukan panjang dan berat dengan satuan baku, serta menghitung keliling dan luas persegi panjang."
+  },
+  {
+    "domain": "Geometri dan Pengukuran",
+    "sub_domain": "Pengukuran",
+    "kelas": 6,
+    "kompetensi": "Menghitung konversi dan durasi waktu, konversi satuan baku berat, serta menghitung dan mengestimasi keliling, luas, volume, dan luas permukaan bangun datar, balok, kubus, dan gabungannya."
+  },
+  {
+    "domain": "Geometri dan Pengukuran",
+    "sub_domain": "Pengukuran",
+    "kelas": 8,
+    "kompetensi": "Mengenal dan menggunakan satuan kecepatan dan debit, serta menghitung dan mengestimasi volume dan luas permukaan prisma, tabung, limas, kerucut, bola, dan gabungannya."
+  },
+  {
+    "domain": "Geometri dan Pengukuran",
+    "sub_domain": "Pengukuran",
+    "kelas": 10,
+    "kompetensi": "Mengenal dan menggunakan satuan kecepatan dan debit (PERLUASAN)."
+  },
+  {
+    "domain": "Geometri dan Pengukuran",
+    "sub_domain": "Penalaran Spasial",
+    "kelas": 2,
+    "kompetensi": "Mengenal posisi relatif suatu benda (depan-belakang, kiri-kanan, atas-bawah)."
+  },
+  {
+    "domain": "Geometri dan Pengukuran",
+    "sub_domain": "Penalaran Spasial",
+    "kelas": 4,
+    "kompetensi": "Menjelaskan arah pergerakan (maju, belok kiri, belok kanan) pada peta."
+  },
+  {
+    "domain": "Geometri dan Pengukuran",
+    "sub_domain": "Penalaran Spasial",
+    "kelas": 6,
+    "kompetensi": "Menggunakan sistem koordinat petak."
+  },
+  {
+    "domain": "Geometri dan Pengukuran",
+    "sub_domain": "Penalaran Spasial",
+    "kelas": 8,
+    "kompetensi": "Menggunakan sistem koordinat kartesius."
+  },
+  {
+    "domain": "Aljabar",
+    "sub_domain": "Persamaan dan Pertidaksamaan",
+    "kelas": 2,
+    "kompetensi": "Memahami makna simbol matematika (=) dalam penjumlahan dan pengurangan bilangan cacah sampai 20."
+  },
+  {
+    "domain": "Aljabar",
+    "sub_domain": "Persamaan dan Pertidaksamaan",
+    "kelas": 4,
+    "kompetensi": "Menyelesaikan persamaan sederhana menggunakan operasi penjumlahan atau pengurangan."
+  },
+  {
+    "domain": "Aljabar",
+    "sub_domain": "Persamaan dan Pertidaksamaan",
+    "kelas": 6,
+    "kompetensi": "Menyelesaikan persamaan sederhana menggunakan operasi penjumlahan, pengurangan, perkalian, dan pembagian."
+  },
+  {
+    "domain": "Aljabar",
+    "sub_domain": "Persamaan dan Pertidaksamaan",
+    "kelas": 8,
+    "kompetensi": "Menyelesaikan persamaan dan pertidaksamaan linier 1 variabel serta sistem persamaan linear 2 variabel."
+  },
+  {
+    "domain": "Aljabar",
+    "sub_domain": "Persamaan dan Pertidaksamaan",
+    "kelas": 10,
+    "kompetensi": "Menyelesaikan masalah yang berkaitan dengan sistem persamaan linear tiga variabel."
+  },
+  {
+    "domain": "Aljabar",
+    "sub_domain": "Relasi dan Fungsi",
+    "kelas": 2,
+    "kompetensi": "Mengenali dan melanjutkan pola gambar atau objek."
+  },
+  {
+    "domain": "Aljabar",
+    "sub_domain": "Relasi dan Fungsi",
+    "kelas": 4,
+    "kompetensi": "Mengenali dan melanjutkan pola bilangan membesar dan mengecil yang melibatkan penjumlahan dan pengurangan pada bilangan cacah sampai 100."
+  },
+  {
+    "domain": "Aljabar",
+    "sub_domain": "Relasi dan Fungsi",
+    "kelas": 6,
+    "kompetensi": "Mengenali dan melanjutkan pola bilangan membesar dan mengecil yang melibatkan perkalian dan pembagian."
+  },
+  {
+    "domain": "Aljabar",
+    "sub_domain": "Relasi dan Fungsi",
+    "kelas": 8,
+    "kompetensi": "Menggeneralisasi pola barisan bilangan, memahami barisan Aritmetika dan geometri, serta menyajikan dan menyelesaikan masalah dengan relasi, fungsi, dan persamaan linear beserta grafiknya."
+  },
+  {
+    "domain": "Aljabar",
+    "sub_domain": "Relasi dan Fungsi",
+    "kelas": 10,
+    "kompetensi": "Menggunakan fungsi eksponensial."
+  },
+  {
+    "domain": "Aljabar",
+    "sub_domain": "Rasio dan Proporsi",
+    "kelas": 6,
+    "kompetensi": "Menyelesaikan masalah sehari-hari terkait rasio."
+  },
+  {
+    "domain": "Aljabar",
+    "sub_domain": "Rasio dan Proporsi",
+    "kelas": 10,
+    "kompetensi": "Menyelesaikan masalah sehari-hari terkait laju perubahan."
+  },
+  {
+    "domain": "Data dan Ketidakpastian",
+    "sub_domain": "Data dan Representasinya",
+    "kelas": 2,
+    "kompetensi": "Menyajikan, menganalisis, dan menginterpretasi data dalam bentuk turus, piktogram, dan diagram batang dengan skala satu satuan."
+  },
+  {
+    "domain": "Data dan Ketidakpastian",
+    "sub_domain": "Data dan Representasinya",
+    "kelas": 4,
+    "kompetensi": "Menyajikan, menganalisis, dan menginterpretasi data dalam bentuk diagram batang atau tabel."
+  },
+  {
+    "domain": "Data dan Ketidakpastian",
+    "sub_domain": "Data dan Representasinya",
+    "kelas": 6,
+    "kompetensi": "Menentukan dan menggunakan mean, median, dan modus dalam pemecahan masalah."
+  },
+  {
+    "domain": "Data dan Ketidakpastian",
+    "sub_domain": "Data dan Representasinya",
+    "kelas": 8,
+    "kompetensi": "Menentukan mean, median, dan modus (PERLUASAN), serta menganalisis data dari gabungan berbagai sumber atau representasi data (diagram batang, garis, lingkaran)."
+  },
+  {
+    "domain": "Data dan Ketidakpastian",
+    "sub_domain": "Data dan Representasinya",
+    "kelas": 10,
+    "kompetensi": "Mengevaluasi data yang lebih kompleks berdasarkan tampilan data dan rangkuman statistik deskriptif dari minimal 2 representasi sumber data."
+  },
+  {
+    "domain": "Data dan Ketidakpastian",
+    "sub_domain": "Ketidakpastian dan Peluang",
+    "kelas": 6,
+    "kompetensi": "Menentukan kejadian yang memiliki kemungkinan terjadi yang lebih besar."
+  },
+  {
+    "domain": "Data dan Ketidakpastian",
+    "sub_domain": "Ketidakpastian dan Peluang",
+    "kelas": 8,
+    "kompetensi": "Menghitung peluang kejadian sederhana."
+  },
+  {
+    "domain": "Data dan Ketidakpastian",
+    "sub_domain": "Ketidakpastian dan Peluang",
+    "kelas": 10,
+    "kompetensi": "Menyelesaikan masalah terkait peluang kejadian majemuk (kejadian saling bebas dan saling lepas)."
+  }
+]
